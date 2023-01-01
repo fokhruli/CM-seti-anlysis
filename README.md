@@ -1,4 +1,4 @@
-> This work is under review in IEEE Acess. After publishing paper, we will release the implementation of this work.
+> This work is under review in IEEE Access. After publishing paper, we will release the full implementation of this work.
 
 ## File descriptions
 
